@@ -27,7 +27,7 @@
                     "angular-ckeditor": "angular-ckeditor"
                 },
                 "shim": {
-                    "angular-ckeditor": ["angularjs"]
+                    "angular-ckeditor": ["angular"]
                 }
             }
         </requirejs>
