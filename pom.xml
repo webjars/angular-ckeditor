@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ckeditor</artifactId>
-    <version>0.2.1-SNAPSHOT</version>
+    <version>0.2.0-1-SNAPSHOT</version>
     <name>angular-ckeditor</name>
     <description>WebJar for angular-ckeditor</description>
     <url>http://webjars.org</url>
